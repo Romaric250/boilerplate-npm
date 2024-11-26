@@ -1,5 +1,6 @@
 {
-	"name": "romaric lonfonyuy",
+	"name": "fcc-learn-npm-package-json",
+	"author":"Romaric lonfonyuy",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
